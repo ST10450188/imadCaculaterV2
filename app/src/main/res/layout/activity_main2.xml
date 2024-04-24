@@ -12,7 +12,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
-        android:inputType="number" />
+        android:inputType="number"
+        android:textSize="30sp" />
 
     <Button
         android:id="@+id/btnAddToList"
@@ -23,7 +24,8 @@
     <TextView
         android:id="@+id/tvOutput"
         android:layout_width="match_parent"
-        android:layout_height="91dp" />
+        android:layout_height="91dp"
+        android:textSize="30sp" />
 
     <Button
         android:id="@+id/btnTotal"
